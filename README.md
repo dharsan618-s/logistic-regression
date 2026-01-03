@@ -6,5 +6,6 @@ its done by using the data set and after that using
 **logistic regression**
 **predction and test and score**
 <img width="1919" height="1064" alt="Screenshot 2026-01-03 155430" src="https://github.com/user-attachments/assets/71629571-6caa-456e-9c23-8904419d0285" />
+<img width="797" height="464" alt="Screenshot 2026-01-03 164356" src="https://github.com/user-attachments/assets/259bdf67-0d07-47cb-b2d2-17d58b20ffa7" />
 
 
