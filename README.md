@@ -1,2 +1,2 @@
 # logistic-regression
-logistic regression about iris
+logistic regression about **iris**
